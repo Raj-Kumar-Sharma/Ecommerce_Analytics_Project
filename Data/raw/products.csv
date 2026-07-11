@@ -1,0 +1,601 @@
+product_id,product_name,category,subcategory,cost_price
+PROD_0001,Quality-focused human-resource utilization,Clothing,Men,357.16
+PROD_0002,Visionary logistical infrastructure,Home,Kitchen,213.66
+PROD_0003,Mandatory background circuit,Home,Kitchen,398.18
+PROD_0004,Compatible exuding complexity,Home,Decor,184.61
+PROD_0005,Self-enabling intermediate functionalities,Clothing,Kids,134.96
+PROD_0006,Assimilated dynamic function,Home,Furniture,55.95
+PROD_0007,Focused composite workforce,Electronics,Smartphones,420.51
+PROD_0008,Assimilated tertiary attitude,Electronics,Audio,283.62
+PROD_0009,CONFIGURABLE GRID-ENABLED ABILITY,Home,Decor,407.27
+PROD_0010,Reduced static database,Books,Fiction,194.23
+PROD_0011,Innovative 6thgeneration initiative,Electronics,Accessories,175.81
+PROD_0012,Assimilated heuristic hub,Books,Fiction,297.56
+PROD_0013,Devolved clear-thinking flexibility,Books,Fiction,234.68
+PROD_0014,Universal 3rdgeneration ability,Clothing,Kids,344.41
+PROD_0015,Realigned didactic instruction set,Home,Kitchen,178.04
+PROD_0016,Triple-buffered object-oriented workforce,Books,Comics,284.05
+PROD_0017,Re-contextualized intangible pricing structure,Electronics,Audio,477.16
+PROD_0018,Operative neutral firmware,Home,Furniture,488.23
+PROD_0019,Cloned fresh-thinking time-frame,Electronics,Audio,260.16
+PROD_0020,Focused 24hour data-warehouse,Electronics,Smartphones,463.84
+PROD_0021,Cross-group 3rdgeneration database,Clothing,Kids,31.66
+PROD_0022,Streamlined heuristic collaboration,Books,Non-Fiction,123.61
+PROD_0023,Reduced dedicated neural-net,Clothing,Kids,226.25
+PROD_0024,Team-oriented secondary paradigm,Electronics,Audio,208.98
+PROD_0025,opeN-ARCHITectED Web-eNabLed fRameWORk,Books,Comics,323.85
+PROD_0026,Phased client-driven success,Clothing,Kids,22.76
+PROD_0027,User-centric optimizing leverage,Home,Decor,145.6
+PROD_0028,   Programmable 24/7 customer loyalty    ,Clothing,Kids,116.27
+PROD_0029,Face-to-face attitude-oriented Internet solution,Electronics,Accessories,248.08
+PROD_0030,Multi-channeled context-sensitive support,Home,Bedding,329.35
+PROD_0031,Public-key incremental ability,Clothing,Shoes,221.81
+PROD_0032,Switchable global solution,Clothing,Kids,476.76
+PROD_0033,Vision-oriented composite architecture,Clothing,Shoes,75.37
+PROD_0034,Total system-worthy info-mediaries,Books,Fiction,135.24
+PROD_0035,Advanced upward-trending solution,Clothing,Kids,78.43
+PROD_0036,Implemented upward-trending moratorium,Books,Non-Fiction,225.43
+PROD_0037,   Business-focused contextually-based extranet    ,Books,Educational,203.58
+PROD_0038,Function-based multi-state middleware,Home,Furniture,243.96
+PROD_0039,Organic zero-defect core,Home,Bedding,350.48
+PROD_0040,Mandatory value-added hardware,Clothing,Men,13.82
+PROD_0041,De-engineered user-facing capability,Clothing,Men,326.89
+PROD_0042,User-centric radical system engine,Books,Comics,153.64
+PROD_0043,BalanCed cohesIVE StRatEGY,Books,Non-Fiction,427.11
+PROD_0044,Quality-focused discrete policy,Books,Comics,481.47
+PROD_0045,Mandatory systematic initiative,Clothing,Men,61.61
+PROD_0046,Organized global standardization,Books,Comics,203.28
+PROD_0047,Virtual reciprocal archive,Electronics,Audio,71.07
+PROD_0048,Distributed systemic middleware,Clothing,Shoes,412.75
+PROD_0049,Multi-lateral holistic paradigm,Home,Kitchen,83.31
+PROD_0050,Assimilated contextually-based moderator,Books,Comics,318.68
+PROD_0051,Cloned human-resource analyzer,Books,Comics,275.28
+PROD_0052,Reduced systemic frame,Home,Decor,139.38
+PROD_0053,Enterprise-wide reciprocal analyzer,Electronics,Accessories,89.24
+PROD_0054,Enhanced next generation project,Clothing,Kids,483.21
+PROD_0055,   Organic non-volatile paradigm    ,Clothing,Kids,335.07
+PROD_0056,Quality-focused encompassing Graphic Interface,Home,Furniture,190.76
+PROD_0057,UsER-FrIENDLY EVEn-KeELed CaPaBilITY,Electronics,Accessories,446.68
+PROD_0058,Seamless mission-critical leverage,Books,Educational,168.12
+PROD_0059,Digitized eco-centric encryption,Clothing,Kids,10.15
+PROD_0060,Assimilated zero administration paradigm,Clothing,Women,478.73
+PROD_0061,Implemented fault-tolerant core,Clothing,Shoes,353.34
+PROD_0062,De-engineered national success,Books,Comics,375.46
+PROD_0063,   Focused holistic parallelism    ,Clothing,Women,86.94
+PROD_0064,Multi-channeled high-level framework,Electronics,Accessories,247.53
+PROD_0065,Self-enabling optimizing circuit,Home,Bedding,373.42
+PROD_0066,Synergistic 24/7 orchestration,Electronics,Audio,215.12
+PROD_0067,Multi-channeled demand-driven Graphical User Interface,Books,Fiction,449.15
+PROD_0068,Expanded value-added hierarchy,Books,Comics,209.98
+PROD_0069,Assimilated responsive system engine,Home,Furniture,14.53
+PROD_0070,POLARIZED NEXT GENERATION STANDARDIZATION,Home,Kitchen,76.28
+PROD_0071,Innovative discrete productivity,Home,Decor,190.97
+PROD_0072,Total holistic migration,Home,Furniture,363.38
+PROD_0073,Persistent modular database,Home,Bedding,443.69
+PROD_0074,Team-oriented cohesive database,Home,Bedding,397.12
+PROD_0075,VErsatIlE higH-LeVel HeLp-desk,Books,Educational,116.84
+PROD_0076,User-centric zero tolerance Graphic Interface,Books,Educational,26.02
+PROD_0077,Face-to-face optimal definition,Books,Fiction,99.35
+PROD_0078,Multi-lateral client-driven knowledgebase,Clothing,Kids,120.47
+PROD_0079,Balanced eco-centric structure,Electronics,Laptops,353.78
+PROD_0080,Re-contextualized foreground software,Electronics,Smartphones,319.65
+PROD_0081,Configurable homogeneous core,Books,Comics,480.79
+PROD_0082,Persevering motivating migration,Books,Educational,306.58
+PROD_0083,   Seamless 4thgeneration access    ,Electronics,Audio,354.04
+PROD_0084,Multi-tiered hybrid system engine,Books,Fiction,231.84
+PROD_0085,   Grass-roots homogeneous artificial intelligence    ,Electronics,Smartphones,121.5
+PROD_0086,Monitored attitude-oriented toolset,Books,Comics,261.86
+PROD_0087,Pre-emptive didactic challenge,Clothing,Men,172.7
+PROD_0088,Re-contextualized dedicated hierarchy,Home,Kitchen,428.71
+PROD_0089,Switchable methodical protocol,Clothing,Shoes,115.08
+PROD_0090,Ergonomic foreground encryption,Books,Educational,162.95
+PROD_0091,   Seamless optimizing success    ,Electronics,Laptops,240.44
+PROD_0092,Focused maximized infrastructure,Books,Comics,168.34
+PROD_0093,Managed object-oriented neural-net,Books,Comics,117.1
+PROD_0094,Self-enabling asynchronous standardization,Home,Furniture,352.95
+PROD_0095,Cloned non-volatile synergy,Books,Comics,217.85
+PROD_0096,Robust radical policy,Home,Decor,115.25
+PROD_0097,Focused empowering definition,Books,Fiction,485.25
+PROD_0098,Balanced client-server forecast,Home,Bedding,361.26
+PROD_0099,Down-sized methodical Internet solution,Clothing,Shoes,452.08
+PROD_0100,Quality-focused responsive flexibility,Books,Comics,356.62
+PROD_0101,Synergized neutral projection,Clothing,Kids,132.42
+PROD_0102,Quality-focused incremental firmware,Clothing,Women,404.01
+PROD_0103,Multi-lateral directional focus group,Electronics,Accessories,124.19
+PROD_0104,Up-sized fault-tolerant challenge,Home,Furniture,217.42
+PROD_0105,   Future-proofed needs-based matrices    ,Electronics,Smartphones,339.62
+PROD_0106,Adaptive interactive help-desk,Clothing,Women,391.68
+PROD_0107,INNOVATIVE NON-VOLATILE TOOLSET,Books,Fiction,192.38
+PROD_0108,re-contEXTUalizeD RESPOnSIVE APprOacH,Electronics,Accessories,133.69
+PROD_0109,Multi-lateral asynchronous projection,Home,Furniture,477.04
+PROD_0110,Multi-lateral impactful algorithm,Books,Comics,433.84
+PROD_0111,Fundamental grid-enabled database,Books,Non-Fiction,14.6
+PROD_0112,Self-enabling actuating system engine,Electronics,Audio,304.94
+PROD_0113,Polarized 24/7 customer loyalty,Electronics,Accessories,191.89
+PROD_0114,Configurable regional implementation,Electronics,Smartphones,61.62
+PROD_0115,Multi-lateral dynamic methodology,Clothing,Men,494.74
+PROD_0116,Extended bi-directional benchmark,Books,Fiction,371.77
+PROD_0117,Persevering systemic success,Electronics,Smartphones,143.0
+PROD_0118,Optional content-based open architecture,Clothing,Shoes,314.59
+PROD_0119,Grass-roots needs-based framework,Electronics,Smartphones,193.68
+PROD_0120,Reverse-engineered disintermediate knowledgebase,Clothing,Men,276.84
+PROD_0121,Total content-based focus group,Clothing,Kids,144.9
+PROD_0122,Cross-platform interactive hierarchy,Home,Decor,466.07
+PROD_0123,Business-focused stable leverage,Home,Decor,221.02
+PROD_0124,Focused 5thgeneration budgetary management,Home,Kitchen,149.65
+PROD_0125,Enhanced object-oriented implementation,Home,Bedding,320.89
+PROD_0126,Ergonomic homogeneous forecast,Home,Decor,171.35
+PROD_0127,Virtual analyzing service-desk,Clothing,Women,31.65
+PROD_0128,Versatile scalable portal,Clothing,Women,306.08
+PROD_0129,Adaptive scalable system engine,Electronics,Accessories,418.52
+PROD_0130,Secured didactic intranet,Electronics,Audio,154.89
+PROD_0131,Total needs-based info-mediaries,Electronics,Laptops,57.06
+PROD_0132,   Mandatory 24/7 migration    ,Electronics,Accessories,315.25
+PROD_0133,Cross-platform heuristic collaboration,Clothing,Shoes,6.29
+PROD_0134,Synergized cohesive knowledge user,Electronics,Accessories,340.17
+PROD_0135,Assimilated asynchronous time-frame,Books,Fiction,335.94
+PROD_0136,Compatible regional product,Books,Educational,226.9
+PROD_0137,Streamlined background model,Electronics,Accessories,94.35
+PROD_0138,Mandatory heuristic framework,Books,Fiction,223.64
+PROD_0139,Streamlined dynamic hub,Books,Educational,6.5
+PROD_0140,Seamless discrete architecture,Books,Fiction,86.03
+PROD_0141,Ameliorated foreground process improvement,Clothing,Shoes,54.09
+PROD_0142,Enterprise-wide actuating matrix,Electronics,Smartphones,216.25
+PROD_0143,De-engineered grid-enabled moderator,Home,Decor,149.23
+PROD_0144,Assimilated 6thgeneration open architecture,Home,Decor,28.26
+PROD_0145,Future-proofed discrete hardware,Home,Bedding,213.85
+PROD_0146,Innovative 6thgeneration array,Home,Kitchen,67.48
+PROD_0147,Reactive context-sensitive array,Home,Bedding,443.32
+PROD_0148,Team-oriented 24hour productivity,Electronics,Smartphones,51.9
+PROD_0149,Enterprise-wide exuding forecast,Books,Comics,52.49
+PROD_0150,User-centric homogeneous Local Area Network,Books,Fiction,148.6
+PROD_0151,Exclusive global matrices,Electronics,Accessories,202.35
+PROD_0152,Compatible high-level conglomeration,Clothing,Men,102.23
+PROD_0153,User-friendly mobile database,Home,Furniture,93.27
+PROD_0154,Expanded global project,Electronics,Laptops,190.19
+PROD_0155,Down-sized background pricing structure,Clothing,Shoes,478.75
+PROD_0156,Right-sized upward-trending matrices,Books,Educational,378.58
+PROD_0157,Secured executive data-warehouse,Books,Comics,19.43
+PROD_0158,Reverse-engineered 24/7 emulation,Electronics,Accessories,333.63
+PROD_0159,Compatible real-time Local Area Network,Clothing,Shoes,261.77
+PROD_0160,Intuitive real-time encoding,Home,Bedding,196.31
+PROD_0161,CRoSs-groUP gLobAl sOLutION,Home,Decor,287.45
+PROD_0162,Intuitive intangible emulation,Electronics,Accessories,190.56
+PROD_0163,Configurable disintermediate process improvement,Home,Furniture,146.64
+PROD_0164,Re-contextualized actuating alliance,Clothing,Men,242.3
+PROD_0165,Vision-oriented grid-enabled help-desk,Books,Comics,210.89
+PROD_0166,Progressive exuding alliance,Home,Decor,143.89
+PROD_0167,   Public-key full-range methodology    ,Home,Decor,307.47
+PROD_0168,Implemented 5thgeneration approach,Clothing,Kids,435.55
+PROD_0169,Self-enabling multi-tasking function,Clothing,Men,199.86
+PROD_0170,Synergistic explicit attitude,Home,Decor,30.69
+PROD_0171,Extended eco-centric budgetary management,Home,Bedding,327.56
+PROD_0172,Right-sized logistical approach,Clothing,Kids,203.87
+PROD_0173,Synchronized zero tolerance data-warehouse,Clothing,Women,308.23
+PROD_0174,Robust web-enabled support,Home,Furniture,45.61
+PROD_0175,Customer-focused tangible conglomeration,Clothing,Kids,64.66
+PROD_0176,Pre-emptive mobile process improvement,Clothing,Men,457.53
+PROD_0177,Fully-configurable 24/7 hardware,Home,Kitchen,134.12
+PROD_0178,Up-sized client-server orchestration,Books,Fiction,62.29
+PROD_0179,Team-oriented value-added Graphic Interface,Clothing,Kids,416.24
+PROD_0180,Versatile mobile parallelism,Books,Non-Fiction,37.65
+PROD_0181,Phased holistic pricing structure,Electronics,Accessories,290.38
+PROD_0182,Robust needs-based moratorium,Books,Educational,366.86
+PROD_0183,Profound grid-enabled capacity,Electronics,Laptops,425.38
+PROD_0184,Multi-layered client-driven projection,Books,Educational,205.84
+PROD_0185,Triple-buffered zero-defect pricing structure,Clothing,Shoes,106.29
+PROD_0186,Grass-roots full-range secured line,Home,Bedding,371.68
+PROD_0187,Horizontal bandwidth-monitored support,Clothing,Shoes,413.56
+PROD_0188,Cross-platform static matrix,Clothing,Men,160.06
+PROD_0189,PUBLiC-KEY ECO-cenTrIc TimE-fraMe,Home,Kitchen,371.55
+PROD_0190,Enhanced stable encryption,Electronics,Audio,375.65
+PROD_0191,Open-source heuristic protocol,Electronics,Smartphones,438.64
+PROD_0192,Triple-buffered well-modulated circuit,Books,Educational,78.46
+PROD_0193,   Organized radical algorithm    ,Home,Decor,489.52
+PROD_0194,Reverse-engineered mission-critical migration,Electronics,Smartphones,303.98
+PROD_0195,virtuAl lOGistIcaL defiNITIon,Books,Fiction,488.92
+PROD_0196,Reactive responsive ability,Books,Comics,457.77
+PROD_0197,Polarized zero tolerance approach,Home,Decor,456.9
+PROD_0198,Realigned system-worthy access,Books,Non-Fiction,316.19
+PROD_0199,Right-sized zero-defect definition,Books,Non-Fiction,355.78
+PROD_0200,Reverse-engineered 6thgeneration capability,Home,Bedding,264.95
+PROD_0201,Pre-emptive bandwidth-monitored attitude,Home,Furniture,274.69
+PROD_0202,Fully-configurable encompassing solution,Home,Kitchen,398.44
+PROD_0203,Multi-tiered multimedia encoding,Electronics,Accessories,482.56
+PROD_0204,Self-enabling methodical ability,Electronics,Accessories,251.01
+PROD_0205,Team-oriented value-added archive,Electronics,Smartphones,369.14
+PROD_0206,Synergistic regional standardization,Clothing,Men,286.74
+PROD_0207,User-friendly human-resource toolset,Home,Decor,36.61
+PROD_0208,Multi-channeled maximized hierarchy,Books,Non-Fiction,369.23
+PROD_0209,Re-engineered background customer loyalty,Books,Comics,340.27
+PROD_0210,Streamlined system-worthy functionalities,Clothing,Women,252.44
+PROD_0211,Profound context-sensitive orchestration,Clothing,Kids,200.77
+PROD_0212,Intuitive leadingedge paradigm,Home,Decor,314.22
+PROD_0213,Multi-tiered dedicated initiative,Clothing,Shoes,463.61
+PROD_0214,Configurable needs-based database,Home,Furniture,94.54
+PROD_0215,Advanced hybrid support,Home,Bedding,217.76
+PROD_0216,Integrated non-volatile monitoring,Electronics,Smartphones,411.79
+PROD_0217,mULTi-TierEd USeR-FacINg tASk-FOrcE,Books,Fiction,177.49
+PROD_0218,De-engineered regional moratorium,Home,Decor,266.85
+PROD_0219,Operative next generation infrastructure,Clothing,Women,64.76
+PROD_0220,Ergonomic bi-directional Graphical User Interface,Clothing,Kids,479.85
+PROD_0221,Multi-layered secondary superstructure,Clothing,Women,185.4
+PROD_0222,Virtual attitude-oriented infrastructure,Home,Bedding,343.8
+PROD_0223,Integrated stable hierarchy,Electronics,Accessories,159.78
+PROD_0224,Self-enabling client-driven model,Books,Fiction,294.75
+PROD_0225,Profit-focused 5thgeneration database,Electronics,Smartphones,342.44
+PROD_0226,Persistent content-based data-warehouse,Electronics,Accessories,13.44
+PROD_0227,Managed user-facing functionalities,Home,Kitchen,42.25
+PROD_0228,Customer-focused high-level policy,Books,Fiction,200.52
+PROD_0229,Persevering radical synergy,Books,Comics,472.69
+PROD_0230,Operative human-resource project,Electronics,Smartphones,6.89
+PROD_0231,Reverse-engineered actuating groupware,Clothing,Kids,262.61
+PROD_0232,Intuitive tangible challenge,Electronics,Accessories,258.65
+PROD_0233,Fully-configurable bi-directional archive,Books,Fiction,374.88
+PROD_0234,Switchable 24hour capability,Electronics,Smartphones,380.93
+PROD_0235,Triple-buffered client-server circuit,Home,Kitchen,148.38
+PROD_0236,Devolved local open system,Clothing,Kids,14.38
+PROD_0237,Inverse bottom-line budgetary management,Home,Kitchen,437.24
+PROD_0238,Synergistic 6thgeneration model,Clothing,Shoes,342.71
+PROD_0239,Virtual disintermediate methodology,Home,Bedding,439.39
+PROD_0240,Re-engineered uniform matrices,Clothing,Men,32.45
+PROD_0241,Triple-buffered uniform process improvement,Clothing,Shoes,113.85
+PROD_0242,Total intangible capability,Clothing,Women,226.09
+PROD_0243,Multi-channeled next generation data-warehouse,Books,Educational,158.12
+PROD_0244,Operative analyzing initiative,Clothing,Kids,344.18
+PROD_0245,Devolved user-facing challenge,Books,Comics,376.53
+PROD_0246,De-engineered context-sensitive collaboration,Electronics,Audio,379.15
+PROD_0247,Universal scalable budgetary management,Clothing,Women,459.24
+PROD_0248,Exclusive grid-enabled database,Books,Fiction,211.34
+PROD_0249,Future-proofed tangible installation,Electronics,Audio,407.79
+PROD_0250,Realigned regional orchestration,Clothing,Men,25.45
+PROD_0251,Customizable system-worthy complexity,Electronics,Smartphones,455.72
+PROD_0252,Business-focused intermediate solution,Clothing,Shoes,362.48
+PROD_0253,User-friendly fresh-thinking algorithm,Electronics,Smartphones,223.75
+PROD_0254,adAptIVe HoMOGEneouS METhOdoLOgy,Electronics,Audio,74.6
+PROD_0255,Fully-configurable asymmetric task-force,Books,Educational,166.57
+PROD_0256,pROgRAMMABle DiReCTioNAl haRDWArE,Electronics,Laptops,492.58
+PROD_0257,croSs-PlAtFOrM CoNTeXt-SEnSitive heLp-dEsK,Clothing,Shoes,309.45
+PROD_0258,reaLIgnEd muLtImediA leveRAGe,Home,Decor,368.21
+PROD_0259,Fundamental high-level Internet solution,Home,Kitchen,9.21
+PROD_0260,   Public-key bandwidth-monitored Graphic Interface    ,Books,Comics,51.02
+PROD_0261,Cross-group static utilization,Electronics,Laptops,173.04
+PROD_0262,   Fully-configurable human-resource focus group    ,Clothing,Women,423.42
+PROD_0263,Front-line intermediate methodology,Clothing,Shoes,390.69
+PROD_0264,Upgradable didactic artificial intelligence,Electronics,Smartphones,56.25
+PROD_0265,Configurable 4thgeneration support,Clothing,Shoes,14.0
+PROD_0266,Persevering fresh-thinking hub,Electronics,Accessories,351.64
+PROD_0267,Organized uniform definition,Home,Decor,91.72
+PROD_0268,Robust asynchronous encoding,Home,Bedding,326.0
+PROD_0269,Seamless leadingedge projection,Clothing,Men,334.84
+PROD_0270,Digitized attitude-oriented data-warehouse,Clothing,Women,287.21
+PROD_0271,Expanded mobile knowledgebase,Home,Bedding,475.28
+PROD_0272,Ameliorated radical extranet,Books,Fiction,458.27
+PROD_0273,Re-contextualized bifurcated concept,Electronics,Accessories,465.76
+PROD_0274,Team-oriented multimedia standardization,Clothing,Kids,59.63
+PROD_0275,Vision-oriented heuristic intranet,Home,Bedding,79.84
+PROD_0276,   Persevering transitional conglomeration    ,Clothing,Kids,64.66
+PROD_0277,Customizable grid-enabled service-desk,Clothing,Men,181.7
+PROD_0278,Reactive value-added time-frame,Books,Comics,160.18
+PROD_0279,   Optimized analyzing collaboration    ,Electronics,Audio,425.69
+PROD_0280,Advanced even-keeled intranet,Clothing,Men,149.57
+PROD_0281,Automated bifurcated service-desk,Home,Decor,352.86
+PROD_0282,Virtual mission-critical Graphical User Interface,Electronics,Laptops,211.65
+PROD_0283,Automated 5thgeneration function,Home,Furniture,320.74
+PROD_0284,Optional web-enabled utilization,Electronics,Smartphones,200.84
+PROD_0285,Extended even-keeled application,Books,Educational,392.91
+PROD_0286,Versatile even-keeled definition,Clothing,Kids,119.27
+PROD_0287,Persistent solution-oriented throughput,Books,Fiction,199.5
+PROD_0288,User-friendly clear-thinking moratorium,Home,Decor,270.29
+PROD_0289,Face-to-face composite software,Books,Fiction,226.21
+PROD_0290,Fundamental methodical focus group,Clothing,Kids,113.85
+PROD_0291,Organic asymmetric contingency,Clothing,Shoes,185.5
+PROD_0292,De-engineered well-modulated support,Electronics,Accessories,355.63
+PROD_0293,Business-focused composite project,Books,Non-Fiction,229.75
+PROD_0294,Horizontal national ability,Electronics,Audio,410.82
+PROD_0295,Realigned exuding service-desk,Clothing,Shoes,86.56
+PROD_0296,Advanced value-added hardware,Home,Bedding,306.74
+PROD_0297,Visionary mobile encryption,Electronics,Smartphones,169.88
+PROD_0298,rEALigNeD eXECUtIVe foReCaSt,Home,Bedding,298.63
+PROD_0299,Extended systematic ability,Books,Non-Fiction,382.11
+PROD_0300,Innovative static matrix,Clothing,Shoes,301.35
+PROD_0301,pRoGraMmaBlE NEEds-bASeD acCeSs,Books,Non-Fiction,495.01
+PROD_0302,Enhanced interactive groupware,Clothing,Kids,142.45
+PROD_0303,VERsATIlE well-MoDuLaTeD GrApHicAL UseR inTeRfACE,Books,Educational,241.37
+PROD_0304,Configurable intangible implementation,Books,Non-Fiction,142.83
+PROD_0305,Fundamental static Local Area Network,Electronics,Audio,84.62
+PROD_0306,QUALITY-FOCUSED EXPLICIT PRODUCTIVITY,Home,Furniture,115.37
+PROD_0307,Phased user-facing access,Home,Decor,185.95
+PROD_0308,Business-focused exuding task-force,Electronics,Audio,155.51
+PROD_0309,Seamless optimal middleware,Electronics,Accessories,147.7
+PROD_0310,Down-sized exuding framework,Books,Fiction,161.12
+PROD_0311,Multi-layered zero administration neural-net,Books,Fiction,42.46
+PROD_0312,Digitized 5thgeneration circuit,Home,Bedding,151.62
+PROD_0313,Phased user-facing encoding,Clothing,Women,31.18
+PROD_0314,Networked upward-trending product,Clothing,Kids,340.35
+PROD_0315,Horizontal directional framework,Books,Non-Fiction,64.05
+PROD_0316,Expanded actuating core,Home,Bedding,90.64
+PROD_0317,Synergized attitude-oriented algorithm,Clothing,Kids,272.72
+PROD_0318,Vision-oriented executive monitoring,Books,Comics,382.59
+PROD_0319,Digitized reciprocal benchmark,Electronics,Accessories,160.99
+PROD_0320,Vision-oriented even-keeled benchmark,Home,Kitchen,264.48
+PROD_0321,Quality-focused hybrid definition,Electronics,Accessories,449.81
+PROD_0322,Fundamental neutral Graphic Interface,Home,Bedding,97.33
+PROD_0323,Multi-lateral even-keeled firmware,Books,Educational,71.72
+PROD_0324,Multi-tiered fault-tolerant archive,Clothing,Kids,215.18
+PROD_0325,RIGHT-SIZED SYSTEMATIC EXTRANET,Books,Fiction,290.31
+PROD_0326,Pre-emptive client-server structure,Clothing,Women,319.41
+PROD_0327,TOTAL 5THGENERATION SYNERGY,Books,Educational,321.24
+PROD_0328,AdAptiVE aNaLyziNg serviCE-DesK,Home,Kitchen,408.62
+PROD_0329,AMelIOraTeD 24hoUr iNfo-meDIariES,Home,Bedding,74.8
+PROD_0330,Future-proofed directional ability,Electronics,Laptops,203.52
+PROD_0331,Universal stable synergy,Home,Furniture,188.75
+PROD_0332,Inverse demand-driven projection,Electronics,Accessories,75.23
+PROD_0333,Assimilated directional service-desk,Electronics,Laptops,31.95
+PROD_0334,Organic composite Local Area Network,Books,Non-Fiction,374.17
+PROD_0335,ADAPTIVE EXUDING ENCODING,Books,Comics,362.11
+PROD_0336,Extended client-server open system,Electronics,Laptops,360.15
+PROD_0337,MULTI-TIERED MULTIMEDIA STANDARDIZATION,Electronics,Laptops,493.36
+PROD_0338,Enhanced asymmetric firmware,Electronics,Laptops,61.24
+PROD_0339,Distributed uniform challenge,Home,Kitchen,456.44
+PROD_0340,Function-based multimedia architecture,Clothing,Men,208.91
+PROD_0341,Advanced methodical open architecture,Books,Comics,350.17
+PROD_0342,Assimilated asymmetric flexibility,Home,Kitchen,23.86
+PROD_0343,Multi-layered intangible attitude,Clothing,Men,248.98
+PROD_0344,Centralized demand-driven parallelism,Home,Bedding,181.51
+PROD_0345,Robust directional info-mediaries,Books,Educational,148.14
+PROD_0346,Streamlined mobile intranet,Books,Educational,170.29
+PROD_0347,Implemented dedicated methodology,Books,Non-Fiction,452.56
+PROD_0348,Implemented static model,Clothing,Kids,328.41
+PROD_0349,Exclusive content-based task-force,Electronics,Accessories,473.15
+PROD_0350,Reverse-engineered disintermediate architecture,Home,Decor,492.01
+PROD_0351,Team-oriented composite attitude,Home,Furniture,327.83
+PROD_0352,Virtual multi-state firmware,Electronics,Laptops,38.53
+PROD_0353,   Managed systematic product    ,Books,Comics,439.98
+PROD_0354,Adaptive 3rdgeneration encryption,Home,Furniture,13.91
+PROD_0355,Grass-roots system-worthy application,Home,Bedding,84.18
+PROD_0356,Intuitive stable conglomeration,Electronics,Accessories,55.51
+PROD_0357,Function-based next generation moderator,Electronics,Smartphones,109.21
+PROD_0358,Fully-configurable maximized support,Electronics,Laptops,83.63
+PROD_0359,Object-based dedicated application,Electronics,Laptops,22.22
+PROD_0360,Horizontal solution-oriented installation,Books,Fiction,290.07
+PROD_0361,FUNDAMENTAL EXECUTIVE APPLICATION,Home,Furniture,67.28
+PROD_0362,Multi-layered mission-critical encoding,Books,Comics,169.33
+PROD_0363,Persistent attitude-oriented infrastructure,Books,Educational,64.87
+PROD_0364,Extended clear-thinking access,Clothing,Shoes,250.29
+PROD_0365,Robust fresh-thinking frame,Clothing,Women,325.55
+PROD_0366,Monitored incremental hub,Clothing,Kids,280.71
+PROD_0367,Function-based context-sensitive parallelism,Books,Non-Fiction,338.88
+PROD_0368,Profit-focused actuating neural-net,Books,Educational,274.86
+PROD_0369,FocUSEd dEmANd-DriVEN mOderaTOR,Electronics,Accessories,429.28
+PROD_0370,Optimized tertiary complexity,Electronics,Accessories,210.09
+PROD_0371,Integrated 24/7 solution,Books,Comics,479.13
+PROD_0372,Sharable heuristic open architecture,Books,Fiction,56.69
+PROD_0373,Inverse 24/7 implementation,Books,Non-Fiction,11.12
+PROD_0374,Re-contextualized encompassing flexibility,Home,Bedding,373.7
+PROD_0375,Reduced client-server pricing structure,Clothing,Shoes,439.78
+PROD_0376,Business-focused clear-thinking matrix,Electronics,Audio,173.18
+PROD_0377,Compatible explicit budgetary management,Home,Kitchen,28.88
+PROD_0378,Reverse-engineered multi-tasking interface,Home,Bedding,365.34
+PROD_0379,Cloned 24/7 function,Electronics,Laptops,265.16
+PROD_0380,Digitized global infrastructure,Books,Educational,61.03
+PROD_0381,Configurable well-modulated application,Home,Bedding,364.96
+PROD_0382,Mandatory context-sensitive secured line,Electronics,Accessories,157.72
+PROD_0383,Centralized content-based process improvement,Clothing,Kids,354.57
+PROD_0384,Mandatory bandwidth-monitored migration,Clothing,Women,451.29
+PROD_0385,Right-sized 24hour migration,Electronics,Accessories,181.22
+PROD_0386,Multi-lateral hybrid solution,Electronics,Smartphones,378.85
+PROD_0387,Automated explicit alliance,Electronics,Laptops,447.75
+PROD_0388,Multi-tiered zero administration definition,Books,Non-Fiction,447.1
+PROD_0389,User-centric systemic database,Clothing,Men,450.61
+PROD_0390,rEaLigNED MissIon-CRItiCAl SyStEM EnGinE,Books,Comics,163.15
+PROD_0391,Right-sized foreground initiative,Books,Educational,141.85
+PROD_0392,Seamless mobile workforce,Clothing,Shoes,243.45
+PROD_0393,Object-based user-facing open system,Home,Kitchen,327.55
+PROD_0394,Multi-tiered static Local Area Network,Books,Non-Fiction,84.94
+PROD_0395,Future-proofed transitional Local Area Network,Clothing,Men,412.16
+PROD_0396,Managed solution-oriented focus group,Clothing,Shoes,403.42
+PROD_0397,Optional cohesive utilization,Electronics,Audio,217.81
+PROD_0398,Realigned bandwidth-monitored circuit,Clothing,Women,289.21
+PROD_0399,Fully-configurable heuristic open architecture,Clothing,Men,372.74
+PROD_0400,Centralized coherent frame,Books,Non-Fiction,491.92
+PROD_0401,VERSATIlE eXeCuTiVe ChALlENGE,Home,Furniture,305.83
+PROD_0402,Phased optimal projection,Clothing,Women,448.59
+PROD_0403,Open-source systematic artificial intelligence,Home,Decor,222.45
+PROD_0404,Extended executive toolset,Books,Non-Fiction,27.91
+PROD_0405,syNErgIStiC AsYnchRONOus ATTiTUDE,Electronics,Audio,129.26
+PROD_0406,Cross-group analyzing open system,Electronics,Laptops,469.03
+PROD_0407,FOCUSED TERTIARY BUDGETARY MANAGEMENT,Clothing,Shoes,274.3
+PROD_0408,Future-proofed high-level flexibility,Books,Fiction,200.99
+PROD_0409,Quality-focused discrete superstructure,Home,Bedding,360.51
+PROD_0410,Robust fresh-thinking migration,Books,Non-Fiction,300.1
+PROD_0411,Virtual client-driven definition,Books,Non-Fiction,443.61
+PROD_0412,Persistent real-time standardization,Electronics,Smartphones,302.33
+PROD_0413,Ameliorated mobile conglomeration,Electronics,Accessories,369.49
+PROD_0414,Fundamental non-volatile instruction set,Electronics,Accessories,268.31
+PROD_0415,Networked zero-defect data-warehouse,Electronics,Audio,449.15
+PROD_0416,   Total exuding encoding    ,Clothing,Men,143.12
+PROD_0417,Centralized attitude-oriented frame,Books,Non-Fiction,142.91
+PROD_0418,Public-key explicit encryption,Clothing,Kids,178.77
+PROD_0419,Team-oriented client-driven methodology,Home,Bedding,427.98
+PROD_0420,Optimized 4thgeneration conglomeration,Books,Educational,144.55
+PROD_0421,Phased homogeneous hardware,Home,Furniture,487.85
+PROD_0422,Managed uniform leverage,Books,Comics,418.96
+PROD_0423,Progressive context-sensitive moderator,Books,Non-Fiction,359.94
+PROD_0424,OPERATIVE INTERACTIVE MORATORIUM,Electronics,Audio,386.75
+PROD_0425,RevErse-EngineeRed cONteXT-SenSITIVe pORtaL,Books,Educational,362.65
+PROD_0426,Inverse content-based task-force,Home,Bedding,174.19
+PROD_0427,Networked systemic time-frame,Books,Comics,333.75
+PROD_0428,Re-contextualized system-worthy productivity,Clothing,Women,194.76
+PROD_0429,Self-enabling 6thgeneration framework,Home,Bedding,308.94
+PROD_0430,Horizontal user-facing task-force,Electronics,Audio,421.28
+PROD_0431,Devolved analyzing knowledgebase,Home,Furniture,350.71
+PROD_0432,Persistent demand-driven matrix,Books,Comics,87.16
+PROD_0433,Expanded human-resource focus group,Home,Kitchen,342.71
+PROD_0434,Robust asynchronous secured line,Home,Furniture,293.67
+PROD_0435,Operative asynchronous website,Clothing,Shoes,208.47
+PROD_0436,   Assimilated zero administration superstructure    ,Home,Bedding,19.21
+PROD_0437,Versatile full-range matrices,Books,Fiction,208.73
+PROD_0438,Progressive bi-directional capacity,Home,Furniture,118.64
+PROD_0439,Face-to-face eco-centric forecast,Books,Educational,291.87
+PROD_0440,Innovative clear-thinking challenge,Books,Educational,118.86
+PROD_0441,Reactive 24hour attitude,Books,Fiction,339.18
+PROD_0442,Optional bottom-line success,Clothing,Shoes,139.31
+PROD_0443,Customer-focused hybrid function,Electronics,Audio,213.96
+PROD_0444,Organized foreground synergy,Home,Bedding,390.04
+PROD_0445,OPEN-ARCHITECTED DEMAND-DRIVEN PRODUCTIVITY,Electronics,Accessories,291.84
+PROD_0446,Pre-emptive full-range software,Electronics,Smartphones,122.09
+PROD_0447,Organic impactful artificial intelligence,Books,Fiction,81.38
+PROD_0448,Reverse-engineered directional interface,Books,Educational,204.59
+PROD_0449,Ameliorated modular definition,Home,Decor,425.57
+PROD_0450,Multi-tiered real-time monitoring,Books,Comics,410.82
+PROD_0451,User-centric 3rdgeneration complexity,Home,Bedding,16.75
+PROD_0452,Down-sized upward-trending structure,Clothing,Kids,290.55
+PROD_0453,Realigned exuding emulation,Clothing,Men,473.81
+PROD_0454,Synergized even-keeled service-desk,Books,Educational,246.21
+PROD_0455,Optional hybrid protocol,Books,Fiction,371.31
+PROD_0456,Phased multi-tasking ability,Clothing,Women,424.03
+PROD_0457,Business-focused next generation neural-net,Electronics,Accessories,280.08
+PROD_0458,Down-sized didactic archive,Home,Bedding,373.56
+PROD_0459,Profound 24hour methodology,Home,Decor,360.59
+PROD_0460,   Right-sized homogeneous time-frame    ,Home,Kitchen,413.81
+PROD_0461,Diverse 4thgeneration matrices,Electronics,Accessories,99.11
+PROD_0462,Fully-configurable fresh-thinking architecture,Clothing,Kids,181.62
+PROD_0463,Organic full-range open architecture,Electronics,Accessories,11.15
+PROD_0464,Synergized 4thgeneration complexity,Home,Furniture,133.6
+PROD_0465,Reactive 6thgeneration process improvement,Books,Comics,297.08
+PROD_0466,Fundamental coherent data-warehouse,Home,Bedding,185.87
+PROD_0467,Balanced eco-centric archive,Home,Furniture,468.02
+PROD_0468,Advanced upward-trending access,Electronics,Accessories,75.63
+PROD_0469,Reactive motivating forecast,Clothing,Kids,474.68
+PROD_0470,Function-based multi-tasking neural-net,Books,Comics,308.08
+PROD_0471,Streamlined global emulation,Electronics,Audio,191.05
+PROD_0472,Seamless real-time archive,Home,Kitchen,425.38
+PROD_0473,Function-based systematic matrices,Books,Non-Fiction,366.71
+PROD_0474,DEVOLVED MOTIVATING METHODOLOGY,Books,Comics,300.14
+PROD_0475,Operative value-added migration,Home,Kitchen,231.59
+PROD_0476,Sharable static middleware,Home,Decor,35.59
+PROD_0477,Multi-layered encompassing extranet,Home,Furniture,129.47
+PROD_0478,Secured multi-state knowledge user,Clothing,Shoes,344.87
+PROD_0479,Persistent analyzing hierarchy,Electronics,Accessories,123.14
+PROD_0480,FUTURE-PROOFED BI-DIRECTIONAL DEFINITION,Electronics,Smartphones,427.33
+PROD_0481,   Vision-oriented disintermediate array    ,Electronics,Audio,136.87
+PROD_0482,OPTIMIZED TRANSITIONAL ABILITY,Clothing,Shoes,122.2
+PROD_0483,Reduced fault-tolerant budgetary management,Electronics,Accessories,352.42
+PROD_0484,Switchable full-range functionalities,Electronics,Smartphones,257.65
+PROD_0485,De-engineered modular model,Books,Non-Fiction,273.53
+PROD_0486,Polarized directional info-mediaries,Clothing,Men,145.74
+PROD_0487,Synergistic cohesive hierarchy,Clothing,Women,408.11
+PROD_0488,Enterprise-wide modular installation,Home,Furniture,362.46
+PROD_0489,Distributed multi-tasking workforce,Books,Fiction,492.98
+PROD_0490,Fully-configurable well-modulated circuit,Books,Educational,224.09
+PROD_0491,Compatible high-level moderator,Clothing,Women,252.99
+PROD_0492,Open-architected clear-thinking ability,Clothing,Men,296.72
+PROD_0493,Polarized real-time implementation,Books,Comics,251.55
+PROD_0494,strEaMLInEd MULtImeDia DEfInITiOn,Books,Educational,298.04
+PROD_0495,Reactive regional forecast,Clothing,Kids,462.82
+PROD_0496,Optimized scalable capacity,Home,Furniture,319.5
+PROD_0497,Reactive clear-thinking forecast,Books,Fiction,231.93
+PROD_0498,Sharable systemic architecture,Electronics,Accessories,445.49
+PROD_0499,User-centric content-based orchestration,Home,Decor,212.27
+PROD_0500,Open-source neutral leverage,Books,Educational,273.63
+PROD_0501,Customer-focused non-volatile hardware,Home,Kitchen,47.91
+PROD_0502,Customizable tangible strategy,Electronics,Accessories,292.87
+PROD_0503,Self-enabling non-volatile definition,Home,Furniture,380.41
+PROD_0504,Right-sized disintermediate process improvement,Electronics,Smartphones,305.69
+PROD_0505,Enterprise-wide 4thgeneration strategy,Home,Furniture,23.36
+PROD_0506,Up-sized tangible infrastructure,Home,Decor,205.57
+PROD_0507,Stand-alone heuristic superstructure,Books,Non-Fiction,110.48
+PROD_0508,Compatible composite focus group,Books,Fiction,23.61
+PROD_0509,Proactive system-worthy core,Home,Decor,248.07
+PROD_0510,Managed hybrid forecast,Clothing,Men,94.33
+PROD_0511,Extended context-sensitive archive,Books,Comics,322.56
+PROD_0512,Intuitive bifurcated circuit,Books,Fiction,138.65
+PROD_0513,Up-sized 24/7 customer loyalty,Clothing,Kids,184.08
+PROD_0514,Multi-lateral zero-defect pricing structure,Clothing,Shoes,239.37
+PROD_0515,Synergized value-added data-warehouse,Books,Fiction,156.07
+PROD_0516,Synchronized interactive superstructure,Home,Kitchen,316.05
+PROD_0517,Synergistic homogeneous attitude,Books,Comics,364.99
+PROD_0518,Programmable encompassing architecture,Electronics,Laptops,495.72
+PROD_0519,Virtual methodical project,Books,Non-Fiction,85.16
+PROD_0520,   Diverse web-enabled middleware    ,Clothing,Kids,371.7
+PROD_0521,Automated value-added service-desk,Books,Fiction,13.15
+PROD_0522,Ergonomic empowering extranet,Home,Bedding,164.8
+PROD_0523,Cross-platform full-range contingency,Books,Comics,488.7
+PROD_0524,Innovative even-keeled superstructure,Clothing,Shoes,449.86
+PROD_0525,Managed regional attitude,Clothing,Men,190.75
+PROD_0526,Customer-focused bottom-line secured line,Clothing,Shoes,141.52
+PROD_0527,Digitized incremental adapter,Clothing,Shoes,12.46
+PROD_0528,Innovative next generation encryption,Clothing,Kids,343.95
+PROD_0529,Intuitive 6thgeneration complexity,Home,Bedding,154.8
+PROD_0530,Customizable systematic extranet,Clothing,Men,26.13
+PROD_0531,Decentralized uniform process improvement,Books,Comics,204.59
+PROD_0532,Reactive upward-trending extranet,Electronics,Accessories,427.89
+PROD_0533,Quality-focused bifurcated implementation,Books,Fiction,434.03
+PROD_0534,Sharable radical system engine,Books,Comics,343.36
+PROD_0535,Secured system-worthy neural-net,Clothing,Kids,482.28
+PROD_0536,Integrated interactive conglomeration,Home,Decor,75.64
+PROD_0537,Versatile discrete protocol,Clothing,Men,229.69
+PROD_0538,Synergistic hybrid strategy,Clothing,Men,393.47
+PROD_0539,Enterprise-wide regional task-force,Home,Kitchen,98.09
+PROD_0540,Up-sized 3rdgeneration initiative,Home,Decor,209.48
+PROD_0541,TotAl WeLL-mODulaTeD AnalYzer,Clothing,Men,49.17
+PROD_0542,Implemented attitude-oriented matrix,Clothing,Women,57.52
+PROD_0543,Enhanced global encryption,Clothing,Men,310.14
+PROD_0544,Switchable upward-trending support,Electronics,Audio,373.19
+PROD_0545,Universal transitional encoding,Books,Comics,450.22
+PROD_0546,Advanced static hierarchy,Electronics,Accessories,261.93
+PROD_0547,Configurable bottom-line archive,Clothing,Shoes,393.47
+PROD_0548,Monitored 24/7 forecast,Electronics,Smartphones,440.7
+PROD_0549,Ergonomic real-time instruction set,Electronics,Accessories,246.84
+PROD_0550,Up-sized methodical neural-net,Books,Fiction,152.59
+PROD_0551,Managed zero tolerance parallelism,Home,Bedding,464.29
+PROD_0552,Ergonomic holistic Graphical User Interface,Electronics,Laptops,326.24
+PROD_0553,De-engineered holistic extranet,Clothing,Women,322.99
+PROD_0554,   Distributed user-facing matrix    ,Clothing,Men,458.87
+PROD_0555,Vision-oriented executive adapter,Books,Non-Fiction,44.81
+PROD_0556,Face-to-face methodical leverage,Books,Educational,88.28
+PROD_0557,Object-based mobile benchmark,Home,Bedding,188.22
+PROD_0558,Operative transitional portal,Electronics,Laptops,372.0
+PROD_0559,SwitChAbLe bifUrCATED taSk-FoRCE,Clothing,Men,316.73
+PROD_0560,Quality-focused mission-critical framework,Clothing,Kids,43.86
+PROD_0561,Front-line context-sensitive analyzer,Clothing,Women,440.73
+PROD_0562,Re-engineered methodical core,Electronics,Accessories,383.19
+PROD_0563,Ameliorated bi-directional protocol,Electronics,Audio,230.02
+PROD_0564,Secured local middleware,Clothing,Kids,173.04
+PROD_0565,Progressive modular instruction set,Electronics,Smartphones,378.66
+PROD_0566,Managed eco-centric array,Electronics,Audio,208.51
+PROD_0567,User-centric client-server intranet,Electronics,Laptops,280.94
+PROD_0568,Multi-channeled even-keeled open system,Home,Kitchen,265.85
+PROD_0569,Front-line dynamic matrices,Books,Non-Fiction,427.3
+PROD_0570,Intuitive object-oriented interface,Home,Kitchen,325.32
+PROD_0571,Adaptive optimizing alliance,Home,Furniture,106.56
+PROD_0572,Assimilated tangible focus group,Books,Comics,261.45
+PROD_0573,Mandatory directional parallelism,Books,Educational,327.0
+PROD_0574,User-centric background neural-net,Books,Comics,267.8
+PROD_0575,Grass-roots background database,Clothing,Men,107.12
+PROD_0576,Optimized bandwidth-monitored project,Books,Fiction,45.2
+PROD_0577,Realigned contextually-based architecture,Clothing,Women,50.38
+PROD_0578,Cross-platform static Graphic Interface,Books,Non-Fiction,304.71
+PROD_0579,perSIsTeNT EmpOweRING BENchMark,Home,Furniture,128.45
+PROD_0580,Networked well-modulated data-warehouse,Books,Comics,51.39
+PROD_0581,Customizable intangible emulation,Electronics,Accessories,435.23
+PROD_0582,SHARABLE BIFURCATED PROJECT,Books,Educational,120.38
+PROD_0583,QUALITY-FOCUSED 3RDGENERATION ARRAY,Electronics,Laptops,5.47
+PROD_0584,Up-sized full-range knowledge user,Clothing,Kids,203.71
+PROD_0585,Organic neutral collaboration,Electronics,Accessories,70.19
+PROD_0586,Visionary 6thgeneration archive,Home,Furniture,279.96
+PROD_0587,Profit-focused 4thgeneration function,Books,Comics,213.28
+PROD_0588,Synergistic tangible matrices,Home,Furniture,430.6
+PROD_0589,Re-engineered next generation implementation,Clothing,Men,49.19
+PROD_0590,Cloned full-range customer loyalty,Electronics,Smartphones,78.97
+PROD_0591,Progressive local model,Clothing,Shoes,240.28
+PROD_0592,Distributed bi-directional definition,Books,Fiction,47.15
+PROD_0593,Multi-layered 24hour neural-net,Books,Educational,270.5
+PROD_0594,Advanced holistic artificial intelligence,Electronics,Accessories,348.08
+PROD_0595,Reduced impactful array,Clothing,Men,194.92
+PROD_0596,Extended hybrid strategy,Home,Furniture,131.76
+PROD_0597,De-engineered user-facing solution,Books,Non-Fiction,175.89
+PROD_0598,Persevering 24hour open system,Electronics,Laptops,272.17
+PROD_0599,Enhanced leadingedge model,Home,Bedding,174.06
+PROD_0600,Customizable heuristic matrix,Electronics,Smartphones,254.58
